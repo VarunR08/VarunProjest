@@ -1,4 +1,5 @@
 public class{
 
-int i=8;
+int j=6;
+int k=8;
 }
